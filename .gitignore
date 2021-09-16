@@ -1,0 +1,4 @@
+# Project exclude paths
+/alibaba-01-nacosclient/target/
+/alibaba-02-users/target/
+/alibaba-03-products/target/
